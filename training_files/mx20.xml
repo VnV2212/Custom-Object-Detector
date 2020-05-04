@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>mx20.jpg</filename>
+	<path>C:\Users\vatsal parmar\Desktop\Images\mx20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>262</width>
+		<height>193</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>60</ymin>
+			<xmax>203</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>25</ymin>
+			<xmax>133</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>

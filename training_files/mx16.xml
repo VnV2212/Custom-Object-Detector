@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>mx16.jpg</filename>
+	<path>C:\Users\vatsal parmar\Desktop\Images\mx16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>303</width>
+		<height>166</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>83</ymin>
+			<xmax>226</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>47</ymin>
+			<xmax>267</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

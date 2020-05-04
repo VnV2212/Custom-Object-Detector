@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>on19.jpg</filename>
+	<path>C:\Users\vatsal parmar\Desktop\Images\on19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>260</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>28</ymin>
+			<xmax>138</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>53</ymin>
+			<xmax>208</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>on6.jpg</filename>
+	<path>C:\Users\vatsal parmar\Desktop\Images\on6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>185</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>2</ymin>
+			<xmax>215</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>
